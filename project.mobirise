@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Fall 2019",
     "currentPage": "Saikoro.html",
     "theme": {
       "name": "mobirise4",
@@ -32,7 +32,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
-    "versionPublish": "4.10.15"
+    "versionPublish": "4.10.15",
+    "favicon": "@PROJECT_PATH@/assets/images/lsvku8e-128x125-128x125.png",
+    "noImageResize": ""
   },
   "pages": {
     "Saikoro.html": {
