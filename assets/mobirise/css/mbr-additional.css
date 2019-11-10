@@ -879,3 +879,170 @@ section.lazy-placeholder:after {
 .cid-rFxcgGV8dw .head-item {
   text-align: center;
 }
+.cid-rG6PdmoiGd {
+  background: #82786e;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rG6PdmoiGd .image-block {
+  margin: auto;
+}
+.cid-rG6PdmoiGd figcaption {
+  position: relative;
+}
+.cid-rG6PdmoiGd figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rG6PdmoiGd .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rG6PyjxN5O {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+.cid-rG6PyjxN5O .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rG6PyjxN5O .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rG6PyjxN5O .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rG6PyjxN5O .media-container-row .img-item .img-caption {
+  background: #efefef;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rG6PyjxN5O .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rG6PyjxN5O .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rG6PyjxN5O .img-item {
+    width: 100% !important;
+  }
+  .cid-rG6PyjxN5O .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-rG6Q5rdbph {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+.cid-rG6Q5rdbph .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rG6Q5rdbph .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rG6Q5rdbph .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rG6Q5rdbph .media-container-row .img-item .img-caption {
+  background: #efefef;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rG6Q5rdbph .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rG6Q5rdbph .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rG6Q5rdbph .img-item {
+    width: 100% !important;
+  }
+  .cid-rG6Q5rdbph .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-rG6QDVSlEV {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-rG6QDVSlEV .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rG6QDVSlEV .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rG6QDVSlEV .media-container-row .img-item .img-cont {
+  position: relative;
+  overflow: hidden;
+}
+.cid-rG6QDVSlEV .media-container-row .img-item .img-cont img {
+  width: 100%;
+}
+.cid-rG6QDVSlEV .media-container-row .img-item .img-cont .img-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rG6QDVSlEV .media-container-row .img-item .img-cont .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rG6QDVSlEV .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rG6QDVSlEV .img-item {
+    width: 100% !important;
+  }
+  .cid-rG6QDVSlEV .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
